@@ -51,6 +51,7 @@ return[
     'Inserisci il tuo nome'=>'Inserta tu nombre',
     'Inserisci una password'=>'Ingrese una contraseña',
     'Conferma password'=>'Confirmar contraseña',
+    'Account revisore'=>'Revisor account',
     
     'Annuncio in attesa di essere approvato'=>'Anuncio pendiente de aprobación',
     'Annuncio rifiutato'=>'Anuncio rechazado',

@@ -36,6 +36,7 @@ return [
     'Inserisci il tuo nome'=>'Inserisci il tuo nome',
     'Inserisci una password'=>'Inserisci una password',
     'Conferma password'=>'Conferma password',
+    'Account revisore'=>'Account revisore',
     // show-------------------------------------------------------------------------------------------------------------
     'Annuncio in attesa di essere approvato'=>'Annuncio in attesa di essere approvato',
     'Annuncio rifiutato'=>'Annuncio rifiutato',
