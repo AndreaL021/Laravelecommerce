@@ -151,7 +151,7 @@ class AnnouncementController extends Controller
             $removedImages = session()->get("removedimages.{$uniqueSecret}",[]);
             $images= array_diff($images, $removedImages);
 
-            if ($images!=null|| $oldImages->count()>1) {
+            if ($images!=null|| $oldImages->count()>0) {
 
                 $announcement->update([
                     'title'=>$request->title,
