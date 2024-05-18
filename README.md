@@ -10,12 +10,19 @@ code .
 
 // .env
 
-Set .env file   DB_CONNECTION=mysql
-                DB_HOST=127.0.0.1
-                DB_PORT=3306
-                DB_DATABASE= dbname (the database must already be created)
-                DB_USERNAME= yourusername
-                DB_PASSWORD= yourpassword
+Set .env file   
+
+DB_CONNECTION=mysql
+
+DB_HOST=127.0.0.1
+
+DB_PORT=3306
+
+DB_DATABASE= dbname (the database must already be created)
+
+DB_USERNAME= yourusername
+
+DB_PASSWORD= yourpassword
 
 //terminal
 
