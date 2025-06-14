@@ -1,7 +1,7 @@
 <x-layout>
     <x-slot name="title">Dettaglio annuncio</x-slot>
     <div class="container-fluid body text-center" style="min-height: 70vh">
-        <h1 style="font-size: 40px" class="mybrand text-white pt-5">Amazon</h1>
+        <h1 style="font-size: 40px" class="mybrand text-white pt-5">Ecommerce</h1>
         @foreach ($categories as $category)
             <a href="{{route('category', compact('category'))}}" class="mt-3 btn homebtn">{{$category->name}}</a>
         @endforeach

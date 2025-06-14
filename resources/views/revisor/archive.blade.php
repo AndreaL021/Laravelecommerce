@@ -6,7 +6,7 @@
                 {{ session('status') }}
             </div>
         @endif
-        <h1 style="font-size: 40px" class="mybrand text-white pt-5">Amazon</h1>
+        <h1 style="font-size: 40px" class="mybrand text-white pt-5">Ecommerce</h1>
         <div class="row d-flex justify-content-center mt-5">
             <div class="col-12 d-flex justify-content-center mb-4 mt-4">
                 <div class="card" style="width: 50rem;">

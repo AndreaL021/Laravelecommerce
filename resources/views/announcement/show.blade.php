@@ -7,7 +7,7 @@
                 {{ session('status') }}
             </div>
         @endif
-        <h1 style="font-size: 40px" class="mybrand text-white pt-5">Amazon</h1>
+        <h1 style="font-size: 40px" class="mybrand text-white pt-5">Ecommerce</h1>
         <form action="{{route('search')}}" method="GET">
             <div class="row d-flex justify-content-center">   
                 <div class="col-3 p-0">

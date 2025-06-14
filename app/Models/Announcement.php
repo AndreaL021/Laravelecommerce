@@ -4,7 +4,6 @@ namespace App\Models;
 
 use App\Models\User;
 use App\Models\Category;
-use App\Models\Announcement;
 use Laravel\Scout\Searchable;
 use App\Models\AnnouncementImage;
 use Illuminate\Database\Eloquent\Model;

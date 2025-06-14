@@ -46,10 +46,10 @@
                         <label for="mypassword2" class="form-label"><h5>{{ __('ui.Conferma password')}}</h5></label>
                         <input type="password" class="form-control" name="password_confirmation">
                     </div>
-                    <div class="mb-5">
+                    {{-- <div class="mb-5">
                         <label for="is_revisor" class="form-label"><h5>{{ __('ui.Account revisore')}}</h5></label>
                         <input type="checkbox" name="is_revisor">
-                    </div>
+                    </div> --}}
                     <div class="mb-4 d-flex justify-content-around">
                         <button type="submit" class="btn mybtn mb-5">{{ __('ui.Registrati')}}</button>
                         <a href="{{route('homepage')}}" class="primary" style="height: 38px"><i class="fas fa-home" style="position: relative; font-size:38px"></i></a>

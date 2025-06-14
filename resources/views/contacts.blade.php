@@ -12,7 +12,7 @@
                     </ul>
                   </div>
                 @endif
-                <h1 class="logo">Amazon</h1>
+                <h1 class="logo">Ecommerce</h1>
                 @if ($announcement!=null)
                     <form method="POST" action="{{route('message', compact('announcement'))}}" class="mt-5">
                 @else
